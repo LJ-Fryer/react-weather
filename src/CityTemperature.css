@@ -1,0 +1,15 @@
+.CityTemperature {
+  display: flex;
+}
+.CityTemperature .icon {
+  font-size: 75px;
+}
+.weather-app-temperture {
+  font-size: 80px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+.weather-app-unit {
+  font-size: 30px;
+  line-height: 80px;
+}
