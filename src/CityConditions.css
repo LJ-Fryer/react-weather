@@ -1,0 +1,11 @@
+.CityConditions {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500px;
+  margin: 0;
+}
+
+a,
+strong {
+  color: rgb(246, 82, 130, 0.8);
+}
